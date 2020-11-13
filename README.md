@@ -1,6 +1,6 @@
+# How To Run This Application
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# How To Run This Application
 If you are a user it is highly recommended to follow the link to the deployed build. The link is listed below
 https://jstill1.github.io/Capstone/
 
