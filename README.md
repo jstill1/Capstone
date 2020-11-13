@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Running As a User
 If you are a user it is highly recommended to follow the link to the deployed build. The link is listed below
+
 https://jstill1.github.io/Capstone/
 
 ## Running As a Tester Via Commandline/Terminal
