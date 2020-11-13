@@ -9,7 +9,7 @@ https://jstill1.github.io/Capstone/
 ## Running As a Tester Via Commandline/Terminal
 If you are a tester and you wish to run the application via terminal/commandline please continue reading. 
 
-First and foremost, please download the code to your machineand cd into the Capstone-main folder.
+First and foremost, please download the code to your machine and cd into the Capstone-main folder.
 
 ### Installations
 
